@@ -1,0 +1,1 @@
+Hi $NAME , you have Bill Rs. $price due for $months
